@@ -25,7 +25,10 @@ Today we will build a simple calculator using the technologies mentioned above. 
 7. Practice math concepts learned in class.
 
 ## OPENING EXERCISE
-1. Lets download Sublime Text: https://www.sublimetext.com/
+1. Lets download and install Sublime Text: https://www.sublimetext.com/
+2. Download ZIP from https://github.com/GainorB/html-css-calculator
+3. Open the starter folder with Sublime Text
+4. (if necessary) Download The Unarchiver to unzip: https://theunarchiver.com/
 
 # INTRODUCTION TO HTML
 
